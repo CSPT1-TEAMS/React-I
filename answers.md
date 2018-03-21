@@ -1,6 +1,7 @@
 ### All Answers to Partner Study should be filled out in this file.
 
 1. Single Page Application
+Application that loads a single HTML page
 
 2. Compilers
 
